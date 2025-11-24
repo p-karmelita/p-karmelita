@@ -156,10 +156,57 @@ me.say_hi()
 <tr>
 <td width="50%">
 
+### 🤖 RETENX - Agent404 Proactive CSI
+**Tech Stack:** `Python` `IBM watsonx` `Docker` `Streamlit` `React`
+
+AI-powered multi-agent system for enterprise risk detection and workflow orchestration. Predicts customer churn with 89% accuracy, detects procurement risks, and triggers autonomous interventions across 13+ systems.
+
+```python
+🎯 Key Features:
+├─ Customer Success Agent
+├─ Procurement Risk Agent
+├─ Revenue Protection Agent
+├─ Real-time Churn Prediction
+└─ Voice-first Operations (STT/TTS)
+```
+
+🏆 **Hackathon Project** | 🤖 **Multi-Agent AI** | 💼 **Enterprise Solution**
+
+[View Repository →](https://github.com/sridharankaliyamoorthy/agent404-proactive-csi)
+
+</td>
+<td width="50%">
+
+### 🏥 AuraCare Assistant
+**Tech Stack:** `React` `TypeScript` `Google Gemini API` `Cloud Run`
+
+Intelligent healthcare platform leveraging Google Gemini's multimodal capabilities. Features real-time voice intake, AI-powered symptom analysis, and doctor recommendations with Google Maps integration.
+
+```javascript
+🩺 Capabilities:
+├─ Real-time Voice Intake (Gemini Live)
+├─ AI Image Analysis
+├─ Smart Specialty Recommendations
+├─ Geolocation-based Doctor Search
+└─ Multi-language Support (i18n)
+```
+
+🌐 **Healthcare AI** | 🗣️ **Voice-Enabled** | 🎨 **Modern UI/UX**
+
+[View Repository →](https://github.com/p-karmelita/AuraCare-Assistant)
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%">
+
 ### 🚗 Carsharing Platform
 **Tech Stack:** `Python` `Backend` `System Design`
 
-A sophisticated car-sharing system built with Python, focusing on efficient resource allocation and user management.
+Sophisticated car-sharing system focusing on efficient resource allocation and user management with optimization algorithms.
 
 ```python
 🔧 Features:
