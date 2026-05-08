@@ -3,7 +3,7 @@
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
 <tr>
 <td align="center" width="25%">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Jupiter_and_its_shrunken_Great_Red_Spot.jpg/320px-Jupiter_and_its_shrunken_Great_Red_Spot.jpg" width="220" alt="Jupiter — NASA"/>
+<img src="https://photojournal.jpl.nasa.gov/jpeg/PIA07782.jpg" width="220" alt="Jupiter — NASA/JPL"/>
 </td>
 <td align="center" width="75%">
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=200&text=Welcome%20to%20My%20Digital%20Universe&fontSize=38&fontColor=c084fc&animation=fadeIn&fontAlignY=45&desc=Where%20Dreams%20Become%20Code%20%E2%9C%A8&descAlignY=65&descSize=18&descColor=ffffff" width="100%"/>
@@ -130,25 +130,20 @@ me.say_hi()
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="33%">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI" />
 <br><strong>FastAPI</strong>
 <br><sub>Modern API Framework</sub>
 </td>
-<td align="center" width="25%">
+<td align="center" width="33%">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="48" height="48" alt="Flask" />
 <br><strong>Flask</strong>
 <br><sub>Web Development</sub>
 </td>
-<td align="center" width="25%">
+<td align="center" width="33%">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="48" height="48" alt="Django" />
 <br><strong>Django</strong>
 <br><sub>Full-Stack Framework</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/brand/wordmark.png" width="96" height="48" alt="LangChain" onerror="this.style.display='none'"/>
-<br><strong>🦜 LangChain</strong>
-<br><sub>LLM Orchestration</sub>
 </td>
 </tr>
 </table>
@@ -173,7 +168,7 @@ me.say_hi()
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🔮 AI & Blockchain & Local LLMs
+### 🔮 AI & LLM Frameworks & Blockchain
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
