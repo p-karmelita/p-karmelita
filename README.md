@@ -172,7 +172,7 @@ AI-powered multi-agent system for enterprise risk detection and workflow orchest
 
 🏆 **Hackathon Project** | 🤖 **Multi-Agent AI** | 💼 **Enterprise Solution**
 
-[View Repository →](https://github.com/sridharankaliyamoorthy/agent404-proactive-csi)
+[View Repository →](https://lablab.ai/ai-hackathons/agentic-ai-hackathon-ibm-watsonx-orchestrate/agent-404/retenx-csi-agent)
 
 </td>
 <td width="50%">
