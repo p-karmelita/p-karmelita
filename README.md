@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:3b0764,60:831843,100:0D1117&height=220&section=header&text=Welcome%20to%20My%20Digital%20Universe&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Where%20Dreams%20Become%20Code%20%E2%9C%A8&descAlignY=65&descSize=18&descColor=f9a8d4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,25:0a0a2e,50:1a0533,75:0D1117,100:000000&height=220&section=header&text=Welcome%20to%20My%20Digital%20Universe&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Where%20Dreams%20Become%20Code%20%E2%9C%A8&descAlignY=65&descSize=18&descColor=c084fc" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2800&pause=2000&color=c084fc&center=true&vCenter=true&width=940&lines=Hi%2C+I'm+Piotr+Karmelita+%F0%9F%91%8B;Python+Developer+%7C+AI+Enthusiast;Building+AI-Powered+Dreams+%F0%9F%A4%96;Hackathon+Participant+%F0%9F%9A%80;Coffee+%26+Tea+Powered+Creator+%E2%98%95%F0%9F%8D%B5;Chasing+Stars+%26+Building+Futures+%E2%9C%A8" alt="Typing SVG" />
 
@@ -521,7 +521,7 @@ while dreaming:
 
 <div align="center">
 
-**⚡ Fun Fact:** *I turn coffee & tea into code and dreams into reality!* ☕🍵→💻🌌 &nbsp;&nbsp;|&nbsp;&nbsp; *Best ideas come after a cold 🍺*
+**⚡ Fun Fact:** *I turn coffee & tea into code and dreams into reality!* ☕🍵→💻🌌 &nbsp;&nbsp;|&nbsp;&nbsp; *Best ideas come after a cold 🍺🍻*
 
 ![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)
 ![Powered by Python](https://img.shields.io/badge/Powered%20by-Python%20🐍-blue?style=for-the-badge)
