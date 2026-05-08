@@ -1,8 +1,15 @@
 <div align="center">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Jupiter_and_its_shrunken_Great_Red_Spot.jpg/1280px-Jupiter_and_its_shrunken_Great_Red_Spot.jpg" width="100%" alt="Jupiter — NASA"/>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&text=Welcome%20to%20My%20Digital%20Universe&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=Where%20Dreams%20Become%20Code%20✨&descAlignY=75&descSize=18&descColor=c084fc" width="100%"/>
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td align="center" width="25%">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Jupiter_and_its_shrunken_Great_Red_Spot.jpg/320px-Jupiter_and_its_shrunken_Great_Red_Spot.jpg" width="220" alt="Jupiter — NASA"/>
+</td>
+<td align="center" width="75%">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=200&text=Welcome%20to%20My%20Digital%20Universe&fontSize=38&fontColor=c084fc&animation=fadeIn&fontAlignY=45&desc=Where%20Dreams%20Become%20Code%20%E2%9C%A8&descAlignY=65&descSize=18&descColor=ffffff" width="100%"/>
+</td>
+</tr>
+</table>
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2800&pause=2000&color=c084fc&center=true&vCenter=true&width=940&lines=Hi%2C+I'm+Piotr+Karmelita+%F0%9F%91%8B;Python+Developer+%7C+AI+Enthusiast;Building+AI-Powered+Dreams+%F0%9F%A4%96;Hackathon+Participant+%F0%9F%9A%80;Coffee+%26+Tea+Powered+Creator+%E2%98%95%F0%9F%8D%B5;Chasing+Stars+%26+Building+Futures+%E2%9C%A8" alt="Typing SVG" />
 
