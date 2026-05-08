@@ -1,19 +1,18 @@
 <div align="center">
-<table border="0" cellspacing="0" cellpadding="0" width="100%">
-<tr>
-<td align="center" width="25%">
-<img src="https://photojournal.jpl.nasa.gov/jpeg/PIA07782.jpg" width="220" alt="Jupiter — NASA/JPL"/>
-</td>
-<td align="center" width="75%">
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=200&text=Welcome%20to%20My%20Digital%20Universe&fontSize=38&fontColor=c084fc&animation=fadeIn&fontAlignY=45&desc=Where%20Dreams%20Become%20Code%20%E2%9C%A8&descAlignY=65&descSize=18&descColor=ffffff" width="100%"/>
-</td>
-</tr>
-</table>
+
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0D1117,50:4a1d96,100:1e1b4b&height=220&section=header&text=Welcome%20to%20My%20Digital%20Universe&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Where%20Dreams%20Become%20Code%20%E2%9C%A8&descAlignY=65&descSize=18&descColor=e9d5ff" width="100%"/>
+
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2800&pause=2000&color=c084fc&center=true&vCenter=true&width=940&lines=Hi%2C+I'm+Piotr+Karmelita+%F0%9F%91%8B;Python+Developer+%7C+AI+Enthusiast;Building+AI-Powered+Dreams+%F0%9F%A4%96;Hackathon+Participant+%F0%9F%9A%80;Coffee+%26+Tea+Powered+Creator+%E2%98%95%F0%9F%8D%B5;Chasing+Stars+%26+Building+Futures+%E2%9C%A8" alt="Typing SVG" />
+
 <br/>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=p-karmelita&color=c084fc&style=for-the-badge&label=DREAMERS+VISITED)
- 
+
 </div>
+
+---
+
+<div align="center">
 
 ### 🌙 About Me — A Dreamer Who Codes
 
