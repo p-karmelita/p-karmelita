@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,25:0a0a2e,50:1a0533,75:0D1117,100:000000&height=300&section=header&text=Welcome%20to%20My%20Digital%20Universe&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Where%20Dreams%20Become%20Code%20✨&descAlignY=62&descSize=18&descColor=c084fc" width="100%"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Jupiter_and_its_shrunken_Great_Red_Spot.jpg/1280px-Jupiter_and_its_shrunken_Great_Red_Spot.jpg" width="100%" alt="Jupiter — NASA"/>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&text=Welcome%20to%20My%20Digital%20Universe&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=Where%20Dreams%20Become%20Code%20✨&descAlignY=75&descSize=18&descColor=c084fc" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2800&pause=2000&color=c084fc&center=true&vCenter=true&width=940&lines=Hi%2C+I'm+Piotr+Karmelita+%F0%9F%91%8B;Python+Developer+%7C+AI+Enthusiast;Building+AI-Powered+Dreams+%F0%9F%A4%96;Hackathon+Participant+%F0%9F%9A%80;Coffee+%26+Tea+Powered+Creator+%E2%98%95%F0%9F%8D%B5;Chasing+Stars+%26+Building+Futures+%E2%9C%A8" alt="Typing SVG" />
 
@@ -137,8 +139,8 @@ me.say_hi()
 <br><sub>Full-Stack Framework</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://python.langchain.com/img/brand/wordmark.png" width="96" height="48" alt="LangChain" style="object-fit:contain"/>
-<br><strong>LangChain</strong>
+<img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/brand/wordmark.png" width="96" height="48" alt="LangChain" onerror="this.style.display='none'"/>
+<br><strong>🦜 LangChain</strong>
 <br><sub>LLM Orchestration</sub>
 </td>
 </tr>
@@ -282,9 +284,15 @@ Real-time flight delay analysis and visualization dashboard for tracking aviatio
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=p-karmelita&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=c084fc&icon_color=c084fc&text_color=C9D1D9" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=p-karmelita&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=c084fc&icon_color=c084fc&text_color=C9D1D9&cache_seconds=1800" alt="GitHub Stats"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-karmelita&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=c084fc&text_color=C9D1D9" alt="Top Languages"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-karmelita&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=c084fc&text_color=C9D1D9&cache_seconds=1800" alt="Top Languages"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/c084fc/p-karmelita" alt="p-karmelita's GitHub Contribution Chart" width="100%"/>
 
 </div>
 
