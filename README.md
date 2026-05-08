@@ -1,5 +1,4 @@
 <div align="center">
-
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
 <tr>
 <td align="center" width="25%">
@@ -10,18 +9,11 @@
 </td>
 </tr>
 </table>
-
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2800&pause=2000&color=c084fc&center=true&vCenter=true&width=940&lines=Hi%2C+I'm+Piotr+Karmelita+%F0%9F%91%8B;Python+Developer+%7C+AI+Enthusiast;Building+AI-Powered+Dreams+%F0%9F%A4%96;Hackathon+Participant+%F0%9F%9A%80;Coffee+%26+Tea+Powered+Creator+%E2%98%95%F0%9F%8D%B5;Chasing+Stars+%26+Building+Futures+%E2%9C%A8" alt="Typing SVG" />
-
 <br/>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=p-karmelita&color=c084fc&style=for-the-badge&label=DREAMERS+VISITED)
-
+ 
 </div>
-
----
-
-<div align="center">
 
 ### 🌙 About Me — A Dreamer Who Codes
 
