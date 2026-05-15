@@ -228,6 +228,27 @@ Intelligent healthcare platform leveraging Google Gemini's multimodal capabiliti
 <tr>
 <td width="50%">
 
+### 🎛️ OpsTune
+**Tech Stack:** `Python` `AMD` `LLM Fine-tuning` `Google Cloud Run` `AI`
+
+Fine-tuned open-source LLM on technical incident reports. Transforms messy incident descriptions into structured, actionable intelligence for DevOps & SRE teams.
+
+```python
+⚙️ Capabilities:
+├─ Incident Category Classification
+├─ Severity Level Detection
+├─ Root Cause Analysis
+├─ Recommended Next Actions
+└─ Confidence Score Output
+```
+
+🏆 **AMD Developer Hackathon** | 🤖 **LLM Fine-tuning** | 🔧 **DevOps AI**
+
+[lablab.ai →](https://lablab.ai/ai-hackathons/amd-developer/opstune/opstune) • [Repo →](https://github.com/Seveyus/OpsTune) • [Demo →](https://opstune-demo-138825131233.europe-west1.run.app/) • [Slides →](https://storage.googleapis.com/lablab-static-eu/presentations/submissions/a72m4ka68qxjgk7u5lkztlkc/a72m4ka68qxjgk7u5lkztlkc-1778439330759_cs5dqbo0ccxzxe57bjn2fdr2.pdf)
+
+</td>
+<td width="50%">
+
 ### 🚗 Carsharing Platform
 **Tech Stack:** `Python` `Backend` `System Design`
 
