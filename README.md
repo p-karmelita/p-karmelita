@@ -228,6 +228,27 @@ Intelligent healthcare platform leveraging Google Gemini's multimodal capabiliti
 <tr>
 <td width="50%">
 
+### 🦥 LazyBob — AI Development Accelerator
+**Tech Stack:** `Python` `IBM watsonx` `Replit` `AI Agents`
+
+AI-powered assistant that automatically analyzes code, generates documentation and creates tests — freeing you up to focus on what matters most. Your laziest, smartest teammate.
+
+```python
+🤖 Capabilities:
+├─ Automatic Code Analysis
+├─ Documentation Generation
+├─ Test Suite Creation
+├─ Development Workflow Automation
+└─ AI-Powered Code Insights
+```
+
+🏆 **IBM BoB Hackathon** | 🦥 **Dev Productivity** | ⚡ **AI Automation**
+
+[lablab.ai →](https://lablab.ai/ai-hackathons/ibm-bob-hackathon/devshowdown-hack-with-lazybob/lazybob-ai-powered-development-accelerator) • [Repo →](https://github.com/p-karmelita/LazyBob) • [Demo →](https://lazy-bob.replit.app/) • [Slides →](https://storage.googleapis.com/lablab-static-eu/presentations/submissions/i25vapw8u607q38recwvm9u1/i25vapw8u607q38recwvm9u1-1779026850496_vah26pfu978vf4930bhjvwwq.pdf)
+
+</td>
+<td width="50%">
+
 ### 🎛️ OpsTune
 **Tech Stack:** `Python` `AMD` `LLM Fine-tuning` `Google Cloud Run` `AI`
 
@@ -247,6 +268,11 @@ Fine-tuned open-source LLM on technical incident reports. Transforms messy incid
 [lablab.ai →](https://lablab.ai/ai-hackathons/amd-developer/opstune/opstune) • [Repo →](https://github.com/Seveyus/OpsTune) • [Demo →](https://opstune-demo-138825131233.europe-west1.run.app/) • [Slides →](https://storage.googleapis.com/lablab-static-eu/presentations/submissions/a72m4ka68qxjgk7u5lkztlkc/a72m4ka68qxjgk7u5lkztlkc-1778439330759_cs5dqbo0ccxzxe57bjn2fdr2.pdf)
 
 </td>
+</tr>
+</table>
+
+<table>
+<tr>
 <td width="50%">
 
 ### 🚗 Carsharing Platform
