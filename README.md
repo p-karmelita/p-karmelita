@@ -163,9 +163,11 @@ me.say_hi()
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge&logoColor=white)
 ![Ollama](https://img.shields.io/badge/🦙_Ollama-000000?style=for-the-badge&logoColor=white)
 ![Grok](https://img.shields.io/badge/Grok_xAI-000000?style=for-the-badge&logo=x&logoColor=white)
+![IBM BoB](https://img.shields.io/badge/IBM_BoB-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 ![Web3](https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain.com&logoColor=white)
 
@@ -218,7 +220,7 @@ Intelligent healthcare platform leveraging Google Gemini's multimodal capabiliti
 
 🌐 **Healthcare AI** | 🗣️ **Voice-Enabled** | 🎨 **Modern UI/UX**
 
-[View Repository →](https://github.com/p-karmelita/AuraCare-Assistant)
+[lablab.ai →](https://lablab.ai/ai-hackathons/ai-genesis/auracare-assistant/auracare-assistant) • [Repo →](https://github.com/p-karmelita/AuraCare-Assistant) • [Demo →](https://aura-care-assistant.replit.app/) • [Slides →](https://storage.googleapis.com/lablab-static-eu/presentations/submissions/p5e6ur12noo22nrhze1xo988/p5e6ur12noo22nrhze1xo988-1763500753131_c4xoq3btblth6wavrjz1mevq.pdf)
 
 </td>
 </tr>
