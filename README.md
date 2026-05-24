@@ -313,6 +313,8 @@ Real-time flight delay analysis and visualization dashboard for tracking aviatio
 🌐 **Interactive Dashboard** | 📈 **Data-Driven**
 
 [View Repository →](https://github.com/p-karmelita/Flight-Delays)
+[Live Demo ->]
+(https://flight-delays.replit.app/)
 
 </td>
 </tr>
