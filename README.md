@@ -293,6 +293,8 @@ Sophisticated car-sharing system focusing on efficient resource allocation and u
 ⭐ **2 Stars** | 🍴 **Collaborative Project**
 
 [View Repository →](https://github.com/WinerSsss/Carshering)
+•
+[Demo →](https://carshering.replit.app)
 
 </td>
 <td width="50%">
