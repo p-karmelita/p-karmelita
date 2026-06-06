@@ -277,6 +277,53 @@ Fine-tuned open-source LLM on technical incident reports. Transforms messy incid
 <tr>
 <td width="50%">
 
+### 👧 Child-Safe AI Mentor
+**Tech Stack:** `Python` `FastAPI` `Streamlit` `AI/ML API`
+
+Educational AI platform with age-aware content filtering for children, teens, and mature users. Features a dual flagging system (automatic + manual), a secure parental review panel, and a badge reward system for positive engagement.
+
+```python
+🛡️ Features:
+├─ Age-Categorized AI Interactions
+├─ Automatic Content Safety Detection
+├─ Manual User-Flagging System
+├─ Parental Review Panel
+└─ Badge Reward & Avatar System
+```
+
+🏆 **/execute: AI Genesis Hackathon** | 🧒 **EdTech AI** | 🔒 **Child Safety**
+
+[lablab.ai →](https://lablab.ai/ai-hackathons/execute-ai-genesis/techpreneur1/child-safe-ai-mentor) • [Demo →](https://happybot.streamlit.app) • [Slides →](https://storage.googleapis.com/lablab-static-eu/presentations/submissions/cma4s153d0000357c0zxzzywu/cma4s153d0000357c0zxzzywu-1746093239158_r5yp0r09.pdf)
+
+</td>
+<td width="50%">
+
+### 🚨 Risk Horizon — Supplier Risk AI Agent
+**Tech Stack:** `Python` `Bright Data` `AI/ML API` `Replit`
+
+Multi-step AI agent for supply chain risk intelligence. Scans live web data for supplier-related disruptions — delays, sanctions, shortages, lawsuits, geopolitical events — and generates source-backed risk reports with scores, confidence levels, and recommended actions.
+
+```python
+📡 Capabilities:
+├─ Live Web Data Collection (Bright Data)
+├─ Multi-signal Risk Detection
+├─ Risk Score & Confidence Level
+├─ Source-Backed Evidence Reports
+└─ Recommended Action Generation
+```
+
+🏆 **Bright Data AI Hackathon** | 🏭 **Supply Chain AI** | 📊 **Finance & Intelligence**
+
+[lablab.ai →](https://lablab.ai/ai-hackathons/brightdata-ai-agents-web-data-hackathon/risk-horizon/risk-horizon-supplier-risk-ai-agent) • [Repo →](https://github.com/p-karmelita/Risk-Horizon) • [Demo →](https://risk-horizon-1.replit.app/) • [Slides →](https://storage.googleapis.com/lablab-static-eu/presentations/submissions/ev96tp71i3inlv3ia2eppdog/ev96tp71i3inlv3ia2eppdog-1780175482319_dn677g3hmvq9zr5smtafwmy2.pdf)
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%">
+
 ### 🚗 Carsharing Platform
 **Tech Stack:** `Python` `Backend` `System Design`
 
@@ -293,8 +340,7 @@ Sophisticated car-sharing system focusing on efficient resource allocation and u
 ⭐ **2 Stars** | 🍴 **Collaborative Project**
 
 [View Repository →](https://github.com/WinerSsss/Carshering)
-•
-[Demo →](https://carshering.replit.app)
+- [Demo →](https://carshering.replit.app)
 
 </td>
 <td width="50%">
@@ -315,8 +361,7 @@ Real-time flight delay analysis and visualization dashboard for tracking aviatio
 🌐 **Interactive Dashboard** | 📈 **Data-Driven**
 
 [View Repository →](https://github.com/p-karmelita/Flight-Delays)
-•
-[Demo →](https://flight-delays.replit.app/)
+- [Demo →](https://flight-delays.replit.app/)
 
 </td>
 </tr>
