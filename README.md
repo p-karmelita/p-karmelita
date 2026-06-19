@@ -322,6 +322,27 @@ Multi-step AI agent for supply chain risk intelligence. Scans live web data for 
 <tr>
 <td width="50%">
 
+### 🛰️ PM PLUS — Autonomous Multi-Agent Project Intelligence
+**Tech Stack:** `Python` `TypeScript` `React` `Band SDK` `GPT-4o`
+
+Autonomous multi-agent ecosystem that replaces passive project management with a self-optimizing workflow. Three specialized agents negotiate over the Band coordination layer, proactively flagging risks and reallocating resources while keeping a human PM in the loop via a real-time dashboard.
+
+```python
+🛰️ Key Features:
+├─ Risk Analyzer Agent
+├─ Reporter Agent (RAG-style history)
+├─ Resource Balancer Agent
+├─ Human-in-the-Loop Approvals
+└─ Real-time SSE Dashboard
+```
+
+🏆 **Band of Agents Hackathon** | 🤖 **Multi-Agent AI** | 📋 **Project Management**
+
+[lablab.ai →](https://lablab.ai/ai-hackathons/band-of-agents-hackathon/neural-network/pm-plus) • [Repo →](https://github.com/p-karmelita/PM-PLUS/) • [Demo →](https://pm-plus-full-version.replit.app/) • [Slides →](https://storage.googleapis.com/lablab-static-eu/presentations/submissions/vm3bt3k1mapajqqxe0zdhgig/vm3bt3k1mapajqqxe0zdhgig-1781880993781_qnk2lj2fhrlavbej11teu1f6.pdf)
+
+</td>
+<td width="50%">
+
 ### 🚗 Carsharing Platform
 **Tech Stack:** `Python` `Backend` `System Design`
 
@@ -341,6 +362,11 @@ Sophisticated car-sharing system focusing on efficient resource allocation and u
 - [Demo →](https://carshering.replit.app)
 
 </td>
+</tr>
+</table>
+
+<table>
+<tr>
 <td width="50%">
 
 ### ✈️ Flight Delays Analyzer
@@ -360,32 +386,6 @@ Real-time flight delay analysis and visualization dashboard for tracking aviatio
 
 [View Repository →](https://github.com/p-karmelita/Flight-Delays)
 - [Demo →](https://flight-delays.replit.app/)
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="100%">
-
-### 📋 PM PLUS — Autonomous Project Management Agent Mesh
-**Tech Stack:** `Python` `Band Agentic Mesh` `AI/ML API` `Claude Code`
-
-Multi-agent system built on the Band coordination layer that turns project management from manual status-chasing into a self-optimizing, proactive process. Agents continuously watch over project health, negotiate resource reallocation, and surface risks before they become blockers — all while keeping a human in the loop through a real-time oversight dashboard.
-
-```python
-🧩 Key Features:
-├─ Autonomous Project Health Monitoring
-├─ Proactive Bottleneck Detection
-├─ Agent-to-Agent Resource Negotiation
-├─ Persistent Historical Project Context
-└─ Real-time Human Oversight Dashboard
-```
-
-🏆 **Band of Agents Hackathon** | 🤝 **Multi-Agent System** | 📈 **Enterprise PM AI**
-
-[Repo →](https://github.com/p-karmelita/PM-PLUS/tree/main) • [Demo →](https://pm-plus-full-version.replit.app/) • [Slides →](https://storage.googleapis.com/lablab-static-eu/presentations/submissions/vm3bt3k1mapajqqxe0zdhgig/vm3bt3k1mapajqqxe0zdhgig-1781880993781_qnk2lj2fhrlavbej11teu1f6.pdf) • [lablab.ai →](https://lablab.ai/ai-hackathons/band-of-agents-hackathon/neural-network/pm-plus)
 
 </td>
 </tr>
