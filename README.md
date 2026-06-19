@@ -12,8 +12,6 @@
 
 ---
 
-<div align="center">
-
 ### 🌙 About Me — A Dreamer Who Codes
 
 ```python
@@ -362,6 +360,32 @@ Real-time flight delay analysis and visualization dashboard for tracking aviatio
 
 [View Repository →](https://github.com/p-karmelita/Flight-Delays)
 - [Demo →](https://flight-delays.replit.app/)
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="100%">
+
+### 📋 PM PLUS — Autonomous Project Management Agent Mesh
+**Tech Stack:** `Python` `Band Agentic Mesh` `AI/ML API` `Claude Code`
+
+Multi-agent system built on the Band coordination layer that turns project management from manual status-chasing into a self-optimizing, proactive process. Agents continuously watch over project health, negotiate resource reallocation, and surface risks before they become blockers — all while keeping a human in the loop through a real-time oversight dashboard.
+
+```python
+🧩 Key Features:
+├─ Autonomous Project Health Monitoring
+├─ Proactive Bottleneck Detection
+├─ Agent-to-Agent Resource Negotiation
+├─ Persistent Historical Project Context
+└─ Real-time Human Oversight Dashboard
+```
+
+🏆 **Band of Agents Hackathon** | 🤝 **Multi-Agent System** | 📈 **Enterprise PM AI**
+
+[Repo →](https://github.com/p-karmelita/PM-PLUS/tree/main) • [Demo →](https://pm-plus-full-version.replit.app/) • [Slides →](https://storage.googleapis.com/lablab-static-eu/presentations/submissions/vm3bt3k1mapajqqxe0zdhgig/vm3bt3k1mapajqqxe0zdhgig-1781880993781_qnk2lj2fhrlavbej11teu1f6.pdf) • [lablab.ai →](https://lablab.ai/ai-hackathons/band-of-agents-hackathon/neural-network/pm-plus)
 
 </td>
 </tr>
