@@ -166,6 +166,9 @@ me.say_hi()
 ![Ollama](https://img.shields.io/badge/🦙_Ollama-000000?style=for-the-badge&logoColor=white)
 ![Grok](https://img.shields.io/badge/Grok_xAI-000000?style=for-the-badge&logo=x&logoColor=white)
 ![IBM BoB](https://img.shields.io/badge/IBM_BoB-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![Fireworks AI](https://img.shields.io/badge/Fireworks_AI-6E2CF4?style=for-the-badge&logoColor=white)
+![AMD ROCm](https://img.shields.io/badge/AMD_ROCm-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Web3](https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain.com&logoColor=white)
 
@@ -179,6 +182,27 @@ me.say_hi()
 
 <table>
 <tr>
+<td width="50%">
+
+### 🦄 UvicornForge AI — AI Co-Founder for Hackathon Teams
+**Tech Stack:** `Python` `Fireworks AI` `AMD ROCm` `PyTorch` `Replit`
+
+AI-powered co-founder for hackathon teams. Enter a project idea plus real parameters (team size, funding, time, target users, industry, tech stack) and get back a full structured startup brief — problem, solution, MVP scope, key features, demo scenario, business model, risks, and go-to-market strategy — along with ready-to-use artifacts like a pitch deck outline, demo script, MVP checklist, and starter README.
+
+```python
+🦄 Key Features:
+├─ Success Score (1-10) via custom MLP
+├─ Fireworks AI for LLM Text Generation
+├─ AMD ROCm-Accelerated Local Inference
+├─ 65-Feature Model (R² ≈ 0.85)
+└─ One-Click Downloadable Artifacts
+```
+
+🏆 **AMD Developer Hackathon: ACT II** | 🤖 **AI Co-Founder** | ⚡ **AMD GPU Inference**
+
+[lablab.ai →](https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-ii/unicornforge-ai/uvicornforge-ai) • [Repo →](https://github.com/p-karmelita/UvicornForge-AI) • [Demo →](https://uvicorn-forge-ai.replit.app/) • [Slides →](https://storage.googleapis.com/lablab-static-eu/presentations/submissions/h844sc7sujh3xls0tj590e6y/h844sc7sujh3xls0tj590e6y-1783874240932_w7pbz5213en47k6r9s6a2rxl.pdf)
+
+</td>
 <td width="50%">
 
 ### 🤖 RETENX - Agent404 Proactive CSI
@@ -200,6 +224,11 @@ AI-powered multi-agent system for enterprise risk detection and workflow orchest
 [View Repository →](https://lablab.ai/ai-hackathons/agentic-ai-hackathon-ibm-watsonx-orchestrate/agent-404/retenx-csi-agent)
 
 </td>
+</tr>
+</table>
+
+<table>
+<tr>
 <td width="50%">
 
 ### 🏥 AuraCare Assistant
@@ -221,11 +250,6 @@ Intelligent healthcare platform leveraging Google Gemini's multimodal capabiliti
 [lablab.ai →](https://lablab.ai/ai-hackathons/ai-genesis/auracare-assistant/auracare-assistant) • [Repo →](https://github.com/p-karmelita/AuraCare-Assistant) • [Demo →](https://aura-care-assistant.replit.app/) • [Slides →](https://storage.googleapis.com/lablab-static-eu/presentations/submissions/p5e6ur12noo22nrhze1xo988/p5e6ur12noo22nrhze1xo988-1763500753131_c4xoq3btblth6wavrjz1mevq.pdf)
 
 </td>
-</tr>
-</table>
-
-<table>
-<tr>
 <td width="50%">
 
 ### 🦥 LazyBob — AI Development Accelerator
@@ -247,6 +271,11 @@ AI-powered assistant that automatically analyzes code, generates documentation a
 [lablab.ai →](https://lablab.ai/ai-hackathons/ibm-bob-hackathon/devshowdown-hack-with-lazybob/lazybob-ai-powered-development-accelerator) • [Repo →](https://github.com/p-karmelita/LazyBob) • [Demo →](https://lazy-bob.replit.app/) • [Slides →](https://storage.googleapis.com/lablab-static-eu/presentations/submissions/i25vapw8u607q38recwvm9u1/i25vapw8u607q38recwvm9u1-1779026850496_vah26pfu978vf4930bhjvwwq.pdf)
 
 </td>
+</tr>
+</table>
+
+<table>
+<tr>
 <td width="50%">
 
 ### 🎛️ OpsTune
@@ -268,11 +297,6 @@ Fine-tuned open-source LLM on technical incident reports. Transforms messy incid
 [lablab.ai →](https://lablab.ai/ai-hackathons/amd-developer/opstune/opstune) • [Repo →](https://github.com/Seveyus/OpsTune) • [Demo →](https://opstune-demo-138825131233.europe-west1.run.app/) • [Slides →](https://storage.googleapis.com/lablab-static-eu/presentations/submissions/a72m4ka68qxjgk7u5lkztlkc/a72m4ka68qxjgk7u5lkztlkc-1778439330759_cs5dqbo0ccxzxe57bjn2fdr2.pdf)
 
 </td>
-</tr>
-</table>
-
-<table>
-<tr>
 <td width="50%">
 
 ### 👧 Child-Safe AI Mentor
@@ -294,6 +318,11 @@ Educational AI platform with age-aware content filtering for children, teens, an
 [lablab.ai →](https://lablab.ai/ai-hackathons/execute-ai-genesis/techpreneur1/child-safe-ai-mentor) • [Demo →](https://happybot.streamlit.app) • [Slides →](https://storage.googleapis.com/lablab-static-eu/presentations/submissions/cma4s153d0000357c0zxzzywu/cma4s153d0000357c0zxzzywu-1746093239158_r5yp0r09.pdf)
 
 </td>
+</tr>
+</table>
+
+<table>
+<tr>
 <td width="50%">
 
 ### 🚨 Risk Horizon — Supplier Risk AI Agent
@@ -315,11 +344,6 @@ Multi-step AI agent for supply chain risk intelligence. Scans live web data for 
 [lablab.ai →](https://lablab.ai/ai-hackathons/brightdata-ai-agents-web-data-hackathon/risk-horizon/risk-horizon-supplier-risk-ai-agent) • [Repo →](https://github.com/p-karmelita/Risk-Horizon) • [Demo →](https://risk-horizon-1.replit.app/) • [Slides →](https://storage.googleapis.com/lablab-static-eu/presentations/submissions/ev96tp71i3inlv3ia2eppdog/ev96tp71i3inlv3ia2eppdog-1780175482319_dn677g3hmvq9zr5smtafwmy2.pdf)
 
 </td>
-</tr>
-</table>
-
-<table>
-<tr>
 <td width="50%">
 
 ### 🛰️ PM PLUS — Autonomous Multi-Agent Project Intelligence
@@ -341,6 +365,11 @@ Autonomous multi-agent ecosystem that replaces passive project management with a
 [lablab.ai →](https://lablab.ai/ai-hackathons/band-of-agents-hackathon/neural-network/pm-plus) • [Repo →](https://github.com/p-karmelita/PM-PLUS/) • [Demo →](https://pm-plus-full-version.replit.app/) • [Slides →](https://storage.googleapis.com/lablab-static-eu/presentations/submissions/vm3bt3k1mapajqqxe0zdhgig/vm3bt3k1mapajqqxe0zdhgig-1781880993781_qnk2lj2fhrlavbej11teu1f6.pdf)
 
 </td>
+</tr>
+</table>
+
+<table>
+<tr>
 <td width="50%">
 
 ### 🚗 Carsharing Platform
@@ -362,11 +391,6 @@ Sophisticated car-sharing system focusing on efficient resource allocation and u
 - [Demo →](https://carshering.replit.app)
 
 </td>
-</tr>
-</table>
-
-<table>
-<tr>
 <td width="50%">
 
 ### ✈️ Flight Delays Analyzer
@@ -431,7 +455,6 @@ Real-time flight delay analysis and visualization dashboard for tracking aviatio
 ║    🚀  From Concept to Deployment                   ║
 ║    🤝  Team Collaboration & Innovation              ║
 ║    🌙  Dreaming Bigger Every Sprint                 ║
-║                                                      ║
 ╚══════════════════════════════════════════════════════╝
 ```
 
